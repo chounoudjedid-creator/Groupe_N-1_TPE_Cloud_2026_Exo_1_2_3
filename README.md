@@ -57,7 +57,7 @@ Sur Android avec Pydroid
 
 
 
-👥 Membres du Groupe (Ordre alphabétique)
+👥 Membres du Groupe 
 
 Nom	Matricule
 
@@ -72,6 +72,8 @@ HISSEIN OUSMAN MAHAMAT 23A099FS
 HISSEIN YAYA BOUNA	23A054FS
 
 MAHAMAT TAHIR ISSA	23A930FS
+
+OUMAR MAHADJIR 23A914FS
 
 
 
@@ -106,8 +108,6 @@ Tests croisés pour fiabilité et robustesse.
 
 
 
-
----
 
 🧠 Explications Techniques des Exercices
 

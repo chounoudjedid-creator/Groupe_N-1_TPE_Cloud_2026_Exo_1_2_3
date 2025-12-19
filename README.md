@@ -217,16 +217,15 @@ Groupe1_TPE_Cloud_2026_exo3.py	Convertisseur de format de date
 
 🖼️ Captures d’Écran
 
-(Remplace les chemins par tes images réelles dans le dossier screenshots)
 
-Exercice 1 : Détecteur de Palindromes
+**Exercice 1 : Détecteur de Palindromes**  
+![Palindromes](./screenshots/exo1.png)
 
+**Exercice 2 : Détecteur de Doublons**  
+![Doublons](./screenshots/exo2.png)
 
-Exercice 2 : Détecteur de Doublons
-
-
-Exercice 3 : Convertisseur de Date
-
+**Exercice 3 : Convertisseur de Date**  
+![Date](./screenshots/exo3.png)
 
 
 📌 Conclusion
